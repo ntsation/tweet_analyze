@@ -95,7 +95,7 @@ textblob==0.20.1
     # via -r config/requirements.txt
 threadpoolctl==3.6.0
     # via scikit-learn
-tqdm==4.70.0
+tqdm==4.70.1
     # via
     #   -r config/requirements.txt
     #   nltk
